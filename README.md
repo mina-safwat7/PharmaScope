@@ -1,1 +1,1 @@
-# DEPI-Graduation-Project-Data-Analysist
+# PharmaScope
