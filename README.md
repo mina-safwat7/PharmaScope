@@ -10,9 +10,6 @@ Exploring pharmaceutical data to build a clearer view of medicine information.
 -
 1) Mina Safwat
 2) Mazen Atef
-3) Patrick Peter
-4) Mayada Ebrahim
-5) Ahmed Sherif
 
 Project Name:
 -
